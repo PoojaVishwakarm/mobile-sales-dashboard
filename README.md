@@ -1,5 +1,5 @@
  # Mobile Sales Dashboard
-This Power BI dashboard provides an interactive analysis of mobile sales, including total sales, transactions, and customer behavior. It is built using PostgreSQL for data management and Power BI for visualization.
+This Power BI dashboard provides an interactive analysis of mobile sales, including total sales, transactions, and customer behavior. It is built using Excel for data management and Power BI for visualization.
 
 ## 🚀 Features
 - Sales Overview: Track total sales, quantity sold, and average price.
