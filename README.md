@@ -15,7 +15,6 @@ This Power BI dashboard provides an interactive analysis of mobile sales, includ
 
 
 ## 📂 Dataset and Implementation
-- The dataset is imported from PostgreSQL using direct queries.
 - Data transformations are handled using Power Query.
 - DAX formulas are used for key metrics and insights.
 
