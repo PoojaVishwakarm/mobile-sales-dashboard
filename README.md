@@ -18,4 +18,4 @@ This Power BI dashboard provides an interactive analysis of mobile sales, includ
 - Data transformations are handled using Power Query.
 - DAX formulas are used for key metrics and insights.
 
-<img width="871" alt="image" src="https://github.com/user-attachments/assets/9f6cbf9b-28ff-436d-afe6-a9e3251c6dc2" />
+https://app.powerbi.com/groups/me/reports/6d5cd4f6-4d84-4ed3-a4c3-7486db581be2/403a319718b8f1c9d0db?experience=power-bi
